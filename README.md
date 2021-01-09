@@ -2,7 +2,7 @@
 
 #### Инструмент:Word Art
 
-#### [Перевод документации] ()
+#### [Перевод документации] (https://github.com/Kseniaveh/ITinForeingLanguage/blob/main/%D0%A1%D0%9C%D0%92%D0%90%D0%A01.pdf)
 
 
 
