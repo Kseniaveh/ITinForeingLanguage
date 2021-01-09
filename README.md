@@ -6,7 +6,7 @@
 
 ## Отчет по инвариантным заданиям
 
-1) [Перевод текста](https://github.com/Kseniaveh/web-portfolio-tasks/blob/main/%D0%98%D0%9D%D0%92%D0%90%D0%A0%201%2C2%20%D0%92%D0%B5%D1%85%D0%BE%D0%B2%D0%B0.pdf)  
+1) [Перевод раздела документации инструмента создания облака тегов.](https://github.com/Kseniaveh/ITinForeingLanguage/blob/main/%D0%A1%D0%9C%D0%92%D0%90%D0%A01.pdf)  
 
 
 
